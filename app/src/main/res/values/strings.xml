@@ -1,0 +1,27 @@
+<resources>
+    <!-- Primary Application Headings -->
+    <string name="app_name">Unwind</string>
+    <string name="app_moto"> Unwind Your Mind.</string>
+    <string name="title_home">Home</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="title_support">Support</string>
+    <!-- Main Content Strings -->
+    <string name="initial_blurb">Track your daily stress and learn relaxation techniques.</string>
+    <string name="terms_service">By continuing you accept our Terms of Service</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="statistics_fragment">Statistics Fragment</string>
+    <string name="support_fragment">Support Fragment</string>
+    <!-- Content Descriptions -->
+    <string name="logo_description">Unwind Logo</string>
+    <!-- Button Content -->
+    <string name="get_started">Get Started</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log In</string>
+    <string name="action_sign_in_short">Log In</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
