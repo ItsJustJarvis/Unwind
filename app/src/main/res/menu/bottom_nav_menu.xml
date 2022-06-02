@@ -11,7 +11,7 @@
         android:title="@string/title_statistics" />
     <item
         android:id="@+id/navigation_support"
-        android:icon="@drawable/ic_outline_contact_support_24"
+        android:icon="@drawable/ic_support"
         android:title="@string/title_support" />
 
 </menu>
