@@ -24,7 +24,7 @@
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="200dp"
         android:backgroundTint="@color/separator"
         app:contentPadding="8dp"
         app:layout_constraintBottom_toTopOf="@+id/cardView3"
@@ -35,7 +35,9 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:backgroundTint="#00FFFFFF"
+            android:orientation="vertical"
+            android:visibility="visible">
 
             <TextView
                 android:id="@+id/textView3"
