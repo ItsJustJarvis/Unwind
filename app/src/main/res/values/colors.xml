@@ -9,5 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="main">#21433B</color>
     <color name="accent">#F9A353</color>
+    <color name="separator">#EFE8DE</color>
     <color name="text">#FFFFFF</color>
 </resources>
